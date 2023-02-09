@@ -1,6 +1,6 @@
 # EMPLOYEE_ATTRITION_PREDICTION
 
-Click Here: [Employee attrition prediction](https://github.com/BlessingNehohwa/Employee_Attrition_Prediction/blob/main/Employee%20Attrition%20Prediction.ipynb)
+Click Here: [EMPLOYEE ATTRITION PREDICTION](https://github.com/BlessingNehohwa/Employee_Attrition_Prediction/blob/main/Employee%20Attrition%20Prediction.ipynb)
 
 ### Business Problem
 
