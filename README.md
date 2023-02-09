@@ -3,7 +3,8 @@ In this project we developing a model that predicts if an employee  will leave t
 I trained my dataset three classification models 
 1. Logistic Regression algorithm.
 2. Random Forest Classifier Algorithm.
-3. Support Vector Machine Algorithm. (SVC)
+3. Support Vector Machine Algorithm. (SVC).
+
 
 
 Click Here: Employee attrition prediction
@@ -46,3 +47,5 @@ Features:
 **WorkLifeBalance**
 
 1 'Bad' 2 'Good' 3 'Better' 4 'Best'
+
+<b>
