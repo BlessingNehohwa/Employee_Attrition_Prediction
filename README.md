@@ -48,4 +48,4 @@ Features:
 
 1 'Bad' 2 'Good' 3 'Better' 4 'Best'
 
-<b> Eventually settled for the Logistic Regression Model 
+<b> Eventually settled for the Logistic Regression Model, it had higher accuracy of 88% 
