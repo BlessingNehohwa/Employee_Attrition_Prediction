@@ -15,6 +15,7 @@ Click Here: Employee attrition prediction
 Dataset link: https://drive.google.com/file/d/1jJ0HWLmPVCWwlAHp9MzE584SKGu4Xu2W/view?usp=sharing
 
 Determining which factors keep employeees at my company and which prompt others to leave. There is a need to know the factors which can be changed to prevent the loss of good people. We have to build binary machine learning classification model.Which factors led to employee attrition?I trained my dataset three classification models 
+
 **1. Logistic Regression algorithm.
 2. Random Forest Classifier Algorithm.
 3. Support Vector Machine Algorithm. (SVC).
