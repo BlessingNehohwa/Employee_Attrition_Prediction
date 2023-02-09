@@ -2,7 +2,7 @@
 In this project we developing a model that predicts if an employee  will leave the company or stay with company.
 I trained my dataset three classification models 
 1. Logistic Regression algorithm.
-2. Random Forest
+2. Random Forest Classifier Algorithm
 
 
 Click Here: Employee attrition prediction
