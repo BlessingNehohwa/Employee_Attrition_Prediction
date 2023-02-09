@@ -12,35 +12,21 @@ Determining which factors keep employeees at my company and which prompt others 
 **2. Random Forest Classifier Algorithm.**
 **3. Support Vector Machine Algorithm. (SVC).**
 
-
 Features:
 
 **Education**
-
 1 'Below College' 2 'College' 3 'Bachelor' 4 'Master' 5 'Doctor'
 
-**EnvironmentSatisfaction**
+**EnvironmentSatisfaction**1 'Low' 2 'Medium' 3 'High' 4 'Very High'
 
-1 'Low' 2 'Medium' 3 'High' 4 'Very High'
+**JobInvolvement**1 'Low' 2 'Medium' 3 'High' 4 'Very High'
 
-**JobInvolvement**
+**JobSatisfaction**1 'Low' 2 'Medium' 3 'High' 4 'Very High'
 
-1 'Low' 2 'Medium' 3 'High' 4 'Very High'
+**PerformanceRating**1 'Low' 2 'Good' 3 'Excellent' 4 'Outstanding'
 
-**JobSatisfaction**
+**RelationshipSatisfaction**1 'Low' 2 'Medium' 3 'High' 4 'Very High'
 
-1 'Low' 2 'Medium' 3 'High' 4 'Very High'
+**WorkLifeBalance**1 'Bad' 2 'Good' 3 'Better' 4 'Best'
 
-**PerformanceRating**
-
-1 'Low' 2 'Good' 3 'Excellent' 4 'Outstanding'
-
-**RelationshipSatisfaction**
-
-1 'Low' 2 'Medium' 3 'High' 4 'Very High'
-
-**WorkLifeBalance**
-
-1 'Bad' 2 'Good' 3 'Better' 4 'Best'
-
-<b> Eventually settled for the Logistic Regression Model, it had higher accuracy of 88% 
+<b>Eventually settled for the Logistic Regression Model, it had higher accuracy of 88% 
