@@ -9,7 +9,6 @@ I trained my dataset three classification models
 
 Click Here: Employee attrition prediction
 
-# Employee Attrition Prediction
 
 ### Business Problem
 
