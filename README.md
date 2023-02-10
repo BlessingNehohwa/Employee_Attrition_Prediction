@@ -10,7 +10,7 @@ Determining which factors keep employeees at an organisation and which prompt ot
 
 **1. Logistic Regression algorithm.**
 **2. Random Forest Classifier Algorithm.**
-**3. Support Vector Machine Algorithm. (SVC).**
+**3. Support Vector Machine Algorithm.(SVC).**
 
 Features:
 
