@@ -12,7 +12,7 @@ Determining which factors keep employeees at an organisation and which prompt ot
 **2. Random Forest Classifier Algorithm.**
 **3. Support Vector Machine Algorithm.(SVC).**
 
-Feature:
+Features:
 
 **Education**
 1 'Below College' 2 'College' 3 'Bachelor' 4 'Master' 5 'Doctor'
